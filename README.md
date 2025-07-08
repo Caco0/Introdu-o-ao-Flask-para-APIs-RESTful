@@ -10,8 +10,10 @@ Fornecer uma introdução prática e simples ao Flask para quem deseja construir
 
 ## 🚀 Pré-requisitos
 
-- Python 3.7 ou superior
-- pip (gerenciador de pacotes Python)
+- Python 3.11 ou superior
+- pip (gerenciador de pacotes Python) ou Poetry
+- Chome (Ou seu navegador Preferido)
+- Insomnia (para fazer chamadas Rest)
 - Virtualenv (opcional, mas recomendado)
 
 ---
